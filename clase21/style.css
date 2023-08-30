@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    background-color: lightyellow;
+    border-radius: 5px;
+}
+div{
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
