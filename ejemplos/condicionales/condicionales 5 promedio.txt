@@ -1,0 +1,15 @@
+iniciar programa notas
+asignar nota1
+asignar nota2
+asignar nota3
+asignar nota4
+asignar promedio
+input nota1
+input nota2
+input nota3
+input nota4
+proceso suma de variables y promedio de las 4 notas
+seleccion es promedio> a 5
+output true "felicidades aprobaste el año"
+output false "casi bro, segui intentando"
+fin

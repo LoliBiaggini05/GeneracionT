@@ -1,0 +1,20 @@
+inicio programa compras
+asignar p1
+asignar p2
+asignar p3
+asignar p4
+asignar p5
+asignar constante dinero disponible
+asignar sumaproductos
+asignar drestante
+input p1
+input p2
+input p3
+input p4
+input p5
+proceso suma de productos
+proceso dd-suma 
+selection dr>=0
+output true "nos alcanza y nos sobra" +dinero restante
+output false " no podemos pagar te falta"+dinerorestante
+fin

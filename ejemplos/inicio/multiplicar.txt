@@ -1,0 +1,8 @@
+iniciar programa multiplicar dos numeros  
+input "ingresar valor1"
+leer valor1 
+input "ingresar valor2"
+leer valor2
+multiplicar valor1 con valor2
+output mostrar resultado
+fin programa multiplicar dos numeros

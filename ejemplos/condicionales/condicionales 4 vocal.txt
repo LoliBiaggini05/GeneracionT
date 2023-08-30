@@ -1,0 +1,7 @@
+iniciar programa vocales
+asignar vocal
+input "ingresar vocal"
+selection comparar vocales (vocal=a,e,i,o,u)
+output "excelente vocal es una voval"
+output "no es una vocal"
+fin

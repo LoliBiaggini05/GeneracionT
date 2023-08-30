@@ -1,0 +1,15 @@
+iniciar programa compras kiosko
+asignamos valor plata 500 pesos
+leer valor plata
+asignar valor coca
+input ingresar valor coca
+leer valor coca
+asignar valor alfajor
+input "ingresar valor alfajor"
+leer valor alfajor
+asignar valor papas
+input "ingresar valor papas"
+leer valor papas 
+sumar valores de la comida y restarlos a nuestro valor plata
+output resultado del valor que me quedo en plata
+fin

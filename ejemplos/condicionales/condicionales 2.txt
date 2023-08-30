@@ -1,0 +1,8 @@
+iniciar programa saludo de juan
+asignar saludo
+leer saludo
+comparar "juan me saludo?"
+leer saludo
+output si es verdadero "delvolver saludo"
+output si es falso "que ortiva juan"
+fin

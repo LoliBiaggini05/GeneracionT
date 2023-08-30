@@ -1,0 +1,9 @@
+inicio de programa pregunta si estoy triste
+asignar humor
+leer humor
+input "tas tiste?
+leer humor 
+selection humor= "triste"
+output true "no estes triste se viene finde largo"
+output false "bien ahi"
+fin

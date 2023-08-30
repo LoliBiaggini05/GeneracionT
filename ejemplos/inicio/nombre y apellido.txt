@@ -1,0 +1,8 @@
+Inicio programa preguntar nombre y Apellido 
+Mostrar input ingresar nombre
+Leer nombre
+Mostrar input ingresar apellido 
+leer apellido
+concatenar nombre y apellido
+output de nombre y apellido
+fin programa nombre y apellido 
