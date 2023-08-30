@@ -1,0 +1,27 @@
+td, th {
+    border: 1px solid black;
+}
+thead{
+    background-color: red;
+    color:rgb(255, 255, 255);
+}
+tfoot{
+    background-color:greenyellow;
+    color: white;
+}
+.ancho{
+    width:100%;
+}
+tbody:active{
+    background-color: yellow;
+}
+body{
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+table{
+    margin: 30px;
+}
