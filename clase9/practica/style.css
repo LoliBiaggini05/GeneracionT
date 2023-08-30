@@ -1,0 +1,9 @@
+#boton:active{
+    background-color: yellow;
+}
+#formulario:focus{
+    border: 6px solid green;
+}
+#texto:hover{
+    background-color: red;
+}
