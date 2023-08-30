@@ -1,0 +1,13 @@
+.verde{
+    background-color: green;
+    border: 1px solid orange;
+}
+.sombreado{
+    text-shadow: 3px 3px 3px black;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+.sombreado:hover{
+    color: blue;
+    background-color: grey;
+}

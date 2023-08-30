@@ -1,0 +1,14 @@
+.verde {
+    background-color: green;
+    border: 1px solid black;
+}
+
+.violeta {
+    background-color: purple;
+    border: 1px solid yellow;
+}
+
+.gris {
+    background-color: gray;
+    border: 1px solid black;
+}
