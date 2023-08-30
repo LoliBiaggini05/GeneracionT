@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://pc-solucion.es/wp-content/uploads/2018/08/banderas-de-paises-png-psd.jpg)
+}
+h1{
+    text-align: center;
+    color: black;
+    background-color: red;
+    border-radius: 5px;
+}
