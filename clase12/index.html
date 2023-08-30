@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+    <form action="https://formspree.io/f/xrgdrzbj" method="post">
+        <h1>Bienvenidos a nuestra revista virtual</h1>
+        <p>En esta revista vas a poder encontrar las actualizaciones de espectaculos, fotos ineditas y discos de tus artistas favoritos. <br>Te pedimos que te registres en la seccion de abajo para no perderte de nada!</p>
+        <a href="#porque">Contanos a que artista te gustaria conocer y porque!</a> 
+        <br>
+        <br>
+        <label for="camponombre">Nombre y apellido:</label><br>
+        <input type="text" id="camponombre" name="username" placeholder="Ingrese su nombre y apellido" required>
+        <br>
+        <br>
+        <label>Genero</label>
+        <br>
+        <label id="gen">masculino
+            <input type="radio" name="genero" value="m">
+        </label>
+        <label id="gen">femenino
+            <input type="radio" name="genero" value="f">
+        </label>
+        <label id="gen">otro
+            <input type="radio" name="genero" value="o">
+        </label>
+        <br>
+        <br>
+        <label for="campocont">De que continente sos</label><br>
+            <select name="cont" id="campocont" required>
+                <option value="as">Asia</option>
+                <option value="am">America</option>
+                <option value="af">Africa</option>
+                <option value="eu">Europa</option>
+                <option value="oc">Oceania</option>
+            </select>
+        <br>
+        <br>
+        <label for="campoedad"> Edad:</label><br>
+        <input type="number" id="campoedad" name="edad" placeholder="Ingrese su edad"required>
+        <br>
+        <br>
+        <label for="mail">Correo electronico:</label><br>
+        <input type="email" id="mail" name="correo" placeholder="ejemplo@ejemplo.com"required>
+        <br>
+        <br>
+        <label for="campocontraseña">Contraseña:</label><br>
+        <input type="password" id="campocontraseña" name="password" placeholder="Ingrese una Contraseña"required>
+        <br>
+        <br>
+        <label for="campofecha">Fecha de nacimiento:</label><br>
+        <input type="date" id="campofecha" name="birthday" placeholder="Ingrese su fecha de nacimiento"required>
+        <br>
+        <br>
+        <label id="porque">Que artista le gustaria conocer y por Que</label><br>
+        <textarea name="texto" id="texto" cols="30" rows="10" placeholder="ingrese aqui" required></textarea>
+        <br><br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.617356072674!2d-73.98785308522584!3d40.74844454332323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1ses!2sar!4v1667766491491!5m2!1ses!2sar" frameborder="1" width="600" height="450" ></iframe>
+        <br>
+        <br>
+        <iframe width="600" height="450" src="https://www.youtube.com/embed/YMg3_lwEQ4o?start=53" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <br>
+        <input type="checkbox" name="si" id="notificaciones">
+        <label for="notificaciones">Acepto recibir notificaciones de esta cuenta</label>
+        <br>
+        <br>
+        <input type="submit" id=" boton" value="Registrarme">
+        <br><br>
+        <a href="https://www.instagram.com/lolabiaggini_/" target="_blank">INSTAGRAM</a>
+        <br>
+        <a href="mailto:lolibiaggini@yahoo.com.ar?subject=Revista%20virtual&body=Deje%20su%20mensaje">CONTACTANOS POR MAIL</a>
+    </form>
+</body>
+</html>
