@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(235, 149, 178);
+}
+.centro{
+    background-color: rgba(201, 15, 117, 0.836);
+    border-radius: 10px;
+}
+.listab{
+    background-color: rgb(233, 198, 204);
+    border-radius: 10px;
+}
+.importante{
+    background-color: rgb(224, 103, 224);
+    border-radius: 10px;
+}
+
